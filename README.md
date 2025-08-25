@@ -1,6 +1,6 @@
 🧠 Self-Directed Online Machine Learning for Topology Optimization (Practice Project)
 
-This is a practice project aimed at understanding and experimenting with the Self-Directed Online Learning (SOLO) algorithm in the context of topology optimization[https://www.nature.com/articles/s41467-021-27713-7].
+This is a practice project aimed at understanding and experimenting with the Self-Directed Online Learning (SOLO) algorithm [https://www.nature.com/articles/s41467-021-27713-7] in the context of topology optimization.
 
 I first encountered this concept during the “AI for Design and Optimization” course on Coursera, which sparked my interest in applying machine learning to structural design problems.
 
